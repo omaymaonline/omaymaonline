@@ -239,3 +239,29 @@ Every feature I build becomes part of the product that demonstrates how I build 
 <p align="center">
 <i>Building one production-ready vertical slice at a time 🌸</i>
 </p>
+
+
+
+<!-- ===========================================================
+Developer Notes (private reminders)
+
+As Omayma Online grows, this README should become lighter.
+
+The goal is for the repositories, documentation, architecture,
+blog, and platform itself to become the proof.
+
+Eventually:
+- Replace text sections with branded SVG illustrations.
+- Replace roadmap text with a visual roadmap.
+- Replace workflow text with an engineering pipeline illustration.
+- Replace architecture description with an interactive domain map.
+- Let repositories and documentation speak for themselves.
+
+The README should evolve from
+"explaining everything"
+into
+"a beautiful front door."
+
+If this README feels shorter in the future,
+that's a sign the platform has matured.
+=========================================================== -->
