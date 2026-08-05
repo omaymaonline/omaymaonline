@@ -116,8 +116,8 @@ Foundation --> Administration
 ```mermaid
 flowchart LR
 
-F[✅ Foundation]
---> I[🟡 Identity]
+F[🟡 Foundation]
+--> I[⚪ Identity]
 --> W[⚪ Workspace]
 --> C[⚪ Commerce]
 --> S[⚪ Services]
